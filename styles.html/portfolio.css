@@ -109,3 +109,6 @@ nav h3{
     .about-info{
         text-align: center;
     }
+    <p #what-i-do-description{
+        padding: 30px 150px;
+    }
