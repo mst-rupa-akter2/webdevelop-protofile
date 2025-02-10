@@ -89,6 +89,10 @@ nav h3{
         
     }
     /* main section styles */
+    main{
+        max-width: 1140px;
+        margin: 0px auto;
+    }
 
     /* about section styles */
     .about{
@@ -97,4 +101,11 @@ nav h3{
         background: #FFF8F3;
         margin: 130px;
 
+    }
+    .about-info-container{
+        display: flex;
+        justify-content: space-around;
+    }
+    .about-info{
+        text-align: center;
     }
