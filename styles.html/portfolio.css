@@ -132,4 +132,11 @@ nav h3{
     .skill-description{
         color: #757575;
     }
+    /*resume section styles */
+    .resume-column-title{
+        color: #474747;
+        font-size: 30px;
+        font-weight: 700;
+
+    }
     
